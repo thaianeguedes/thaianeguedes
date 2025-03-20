@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👩🏻‍💻Thaiane Guedes
 
-<!--
-**thaianeguedes/thaianeguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora Frontend`**
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software com foco em desenvolvimento Frontend e um olhar voltado para a experiência do usuário. Atualmente, estou expandindo meus conhecimentos em tecnologias Fullstack, com ênfase em Node.js e React, para desenvolver soluções mais completas. Busco transformar ideias em interfaces intuitivas e eficientes, sempre com atenção aos detalhes e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔹 **Habilidades:** HTML, CSS, JavaScript, Figma  
+🔹 **Atualmente aprendendo:** Node.js, React, UI/UX Design 
+🔹 **Objetivo:** Trabalhar como desenvolvedora frontend/fullstack 
+
+
+###  Tecnologias & Ferramentas  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,nodejs" />
+</div>
+
