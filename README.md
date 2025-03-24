@@ -1,16 +1,16 @@
+### Olá :octocat:
 
-# 👩🏻‍💻Thaiane Guedes
-
-**`Desenvolvedora Frontend`**
-
-Sou estudante de Engenharia de Software com foco em desenvolvimento Frontend e um olhar voltado para a experiência do usuário. Atualmente, estou expandindo meus conhecimentos em tecnologias Fullstack, com ênfase em Node.js e React, para desenvolver soluções mais completas. Busco transformar ideias em interfaces intuitivas e eficientes, sempre com atenção aos detalhes e inovação.
-
-🔹 **Habilidades:** HTML, CSS, JavaScript, Figma  
-🔹 **Atualmente aprendendo:** Node.js, UX Design e React  
-🔹 **Objetivo:** Trabalhar como desenvolvedora frontend/fullstack 
+Sou **Thaiane**, atualmente cursando **Engenharia de Software** com ênfase em **desenvolvimento Frontend**, mas com grande interesse em expandir meus conhecimentos para **Fullstack**. No momento, estou me aprofundando em **React** e **JavaScript**, com o objetivo de construir uma base sólida como desenvolvedora frontend e ampliar minha expertise na área.
 
 
-###  Tecnologias & Ferramentas  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,nodejs" />
-</div>
+#### Tecnologias & Ferramentas
+
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend (em aprendizagem)**: Node.js
+- **Design**: Figma
+- **Versionamento**: Git, GitHub.
+
+#### Foco Atual
+
+- **React & JavaScript**: Aprendendo e aplicando conceitos para criar interfaces dinâmicas e funcionais, com o objetivo de me tornar uma desenvolvedora frontend sólida.
+- **UI/UX**: Também estou explorando design de interfaces para criar experiências de usuário intuitivas e agradáveis.
