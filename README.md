@@ -31,5 +31,9 @@ Atualmente aprofundando conhecimentos em:
 
 ### ✦ Contato
 
+Aberta a oportunidades, conexões e bons projetos.
+
 📫 thaianeguedes471@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/thaianeguedes/)
+
+
