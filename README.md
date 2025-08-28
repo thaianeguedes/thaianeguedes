@@ -1,12 +1,3 @@
-## Sobre mim 👩🏻‍💻
-
-Olá, me chamo Thaiane e sou desenvolvedora front-end, atualmente cursando Engenharia de Software.
-
-Trabalho na criação de interfaces modernas, funcionais e bem estruturadas, com foco em performance, clareza visual e uma boa experiência para quem usa. Tenho experiência prática com React, JavaScript, HTML, CSS e ferramentas como Figma e Webflow.
-
-Gosto de transformar ideias em código limpo e acessível, equilibrando usabilidade e estética com organização no front. Levo a sério os detalhes, a consistência visual e a entrega com propósito.
-
-Aqui no GitHub, compartilho projetos de estudo e evolução técnica enquanto construo minha trajetória na área.
 
 ---
 
