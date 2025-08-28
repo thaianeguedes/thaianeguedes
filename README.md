@@ -1,30 +1,22 @@
+Bem vindos! 👋🏻
 
----
-
-### ✦ Tecnologias e ferramentas
-
-- **Frontend**: React, HTML, CSS, JavaScript
-- **Backend (em aprendizagem)**: Node.js, Express
-- **Design**: Figma
-- **Versionamento**: Git, GitHub.
-- **Estilo**: Tailwind
-  
----
-
-### ✦ Em evolução
-
-Atualmente aprofundando conhecimentos em:
-- React Router e componentes reutilizáveis
-- Boas práticas de acessibilidade
-- Integração com APIs REST
-
----
-
-### ✦ Contato
-
-Aberta a oportunidades, conexões e bons projetos.
-
-📫 thaianeguedes471@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/thaianeguedes/)
+👾 Desenvolvedora Front-End expandindo para Fullstack <br>
+🎓 Graduanda de engenharia de software <br>
+⌨️ Atualmente aprendendo Node.js, Express e SQL para backend <br>
+📱 Entusiasta de UI/UX | Figma & design web limpo e funcional  
+☕ Fora do código eu sou apaixonada por café, livros de fantasia e gatos :)
 
 
+⚙️ Ferramentas <br>
+
+**Frontend:** HTML5, CSS3, JavaScript, React, TypeScript  
+**Backend:** Node.js, Express, SQLite  
+**Ferramentas:** Git, GitHub, Figma <br>
+**Estilo/UI:** Tailwind CSS, Material UI, Figma  
+
+💼 Me encontre em outros lugares:  
+
+🔗 LinkedIn: [in/thaianeguedes](https://www.linkedin.com/in/thaianeguedes/)
+  <br>
+🔮 Portfólio: [thaianeguedes](https://thaianeguedes.vercel.app/) <br>
+📧 Email: [thaianeguedes471@gmail.com](mailto:thaianeguedes471@email.com)
