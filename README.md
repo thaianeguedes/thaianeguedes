@@ -10,7 +10,7 @@ Bem vindos! 👋🏻
 ⚙️ Ferramentas <br>
 
 **Frontend:** HTML5, CSS3, JavaScript, React, TypeScript  
-**Backend:** Node.js, Express, SQLite  
+**Backend:** Node.js, Express, SQLite, python 
 **Ferramentas:** Git, GitHub, Figma <br>
 **Estilo/UI:** Tailwind CSS, Material UI, Figma  
 
