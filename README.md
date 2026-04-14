@@ -1,7 +1,7 @@
 Bem vindos! 👋🏻
 
 👾 Desenvolvedora Front-End expandindo para Fullstack <br>
-🎓 Graduanda de engenharia de software <br>
+🎓 Graduanda de Análise e Desenvolvimento de Sistemas <br>
 ⌨️ Atualmente aprendendo Node.js, Express e SQL para backend <br>
 📱 Entusiasta de UI/UX | Figma & design web limpo e funcional  
 ☕ Fora do código eu sou apaixonada por café, livros de fantasia e gatos :)
