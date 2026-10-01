@@ -18,5 +18,4 @@ Bem vindos! 👋🏻
 
 🔗 LinkedIn: [in/thaianeguedes](https://www.linkedin.com/in/thaianeguedes/)
   <br>
-🔮 Portfólio: [thaianeguedes](https://thaianeguedes.vercel.app/) <br>
 📧 Email: [thaianeguedes471@gmail.com](mailto:thaianeguedes471@email.com)
